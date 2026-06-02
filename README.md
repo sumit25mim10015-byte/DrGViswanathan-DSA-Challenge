@@ -14,8 +14,7 @@ This repository contains my journey of learning Data Structures & Algorithms as 
 ## Platforms Used
 
 * LeetCode
-* Codeforces
-* CodeChef
+* GFG
 
 ## Topics
 
